@@ -1,7 +1,7 @@
 # Active Directory Home Lab
 
 ### About This Project
-This project demonstrates my ability to set up and manage an Active Directory environment using Windows Server and Windows 10. I configured a domain called Mohammad.org, joined a client machine, and managed users through Active Directory.
+This project demonstrates my ability to set up and manage an Active Directory environment using Windows 2019 Server and Windows 10 Enterprise. I configured a domain called Mohammad.org, joined a client machine, and managed users through Active Directory.
 
 ---
 
